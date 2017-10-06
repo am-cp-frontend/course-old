@@ -9,7 +9,10 @@
  - [HTML reference][a-html-ref]
  - [CSS reference][a-css-ref]
  - [JS reference][a-js-ref]
- - [Node.js (Документация)][a-node-ref]
+ - [Node.js API docs][a-node-ref]
+ - [Markdown reference][a-md-ref]
+
+ **Reference**(англ) — Справочник 
 
 #  Что себе установить
  - [Git][a-git] и [GUI для него][a-gitkraken]
@@ -31,6 +34,7 @@
 [a-git]: https://git-scm.com/
 [a-node]: https://nodejs.org/en/
 
+[a-md-ref]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [a-js-ref]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 [a-css-ref]: https://www.w3schools.com/cssref/
 [a-html-ref]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
