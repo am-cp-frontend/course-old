@@ -21,8 +21,8 @@
  - Chrome \ Yandex Browser \ Opera \ [Хром для тру разработчиков][a-canary]
 
 
-[a-slides]: https://github.com/VsevolodTrofimov/am-cp-frontend/tree/master/Slides
-[a-assets]: https://github.com/VsevolodTrofimov/am-cp-frontend/Slides
+[a-slides]: ./Slides
+[a-assets]: ./Assets
 [a-slack-our]: https://join.slack.com/t/am-cp-frontend/shared_invite/enQtMjUyMDgwMzgyODgwLTdlZTNjNGViYmQ0OTFkZDZhOTg0NTU2NTQxNjgyNmU1NTg2OGY3ZGU5OTY5NGFjNzIzMGU0YWRjZjI1YTAxMDI
 
 [a-atom]: https://atom.io/
