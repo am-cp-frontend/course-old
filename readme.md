@@ -12,13 +12,13 @@
  - [Node.js API docs][a-node-ref]
  - [Markdown reference][a-md-ref]
 
- **Reference** (англ.) — Справочник 
+ **Reference** (англ.) — Справочник
 
 #  Что себе установить
  - [Git][a-git] и [GUI для него][a-gitkraken]
  - [VS Code][a-vscode] или [Atom][a-atom]
  - [Node.js версии 8.6.0 или выше][a-node]
- - Chrome \ Yandex browser \ Opera \ [Хром для тру разработчиков][a-canary]
+ - Chrome \ Yandex Browser \ Opera \ [Хром для тру разработчиков][a-canary]
 
 
 [a-slides]: https://github.com/VsevolodTrofimov/am-cp-frontend/tree/master/Slides
