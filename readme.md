@@ -12,18 +12,18 @@
  - [Node.js API docs][a-node-ref]
  - [Markdown reference][a-md-ref]
 
- **Reference**(англ) — Справочник 
+ **Reference** (англ.) — Справочник 
 
 #  Что себе установить
  - [Git][a-git] и [GUI для него][a-gitkraken]
  - [VS Code][a-vscode] или [Atom][a-atom]
  - [Node.js версии 8.6.0 или выше][a-node]
  - Chrome \ Yandex browser \ Opera \ [Хром для тру разработчиков][a-canary]
- 
+
 
 [a-slides]: https://github.com/VsevolodTrofimov/am-cp-frontend/tree/master/Slides
 [a-assets]: https://github.com/VsevolodTrofimov/am-cp-frontend/Slides
-[a-slack-our]: https://join.slack.com/t/am-cp-frontend/shared_invite/enQtMjUyMDgwMzgyODgwLTdlZTNjNGViYmQ0OTFkZDZhOTg0NTU2NTQxNjgyNmU1NTg2OGY3ZGU5OTY5NGFjNzIzMGU0YWRjZjI1YTAxMDI 
+[a-slack-our]: https://join.slack.com/t/am-cp-frontend/shared_invite/enQtMjUyMDgwMzgyODgwLTdlZTNjNGViYmQ0OTFkZDZhOTg0NTU2NTQxNjgyNmU1NTg2OGY3ZGU5OTY5NGFjNzIzMGU0YWRjZjI1YTAxMDI
 
 [a-atom]: https://atom.io/
 [a-vscode]: https://code.visualstudio.com/
