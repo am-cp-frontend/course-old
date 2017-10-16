@@ -24,6 +24,19 @@
 
 # Практика
 
+## Задание 1
+```css
+.block {
+   border: 1px solid;
+   text-align: center;
+   vertial-align: center;
+   line-height: 6rem;
+   width: 6rem;
+   height: 6rem;
+   display: inline-block;
+}
+```
+
 ## Задание 2
 
 ### Текст
