@@ -14,6 +14,7 @@
 - `font-size: size` размер шрифта
 - `padding: value` отступ внутри
 - `margin: value` отступ снаружи
+- `top`, `right`, `bottom`, `left` смещение с соответствующей стороны
 
 ## Селекторы
  - `.class`
