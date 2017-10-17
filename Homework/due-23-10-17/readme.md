@@ -50,8 +50,7 @@ asperiores repellat.
 
 ```css
 
-* {
-  padding: 0;
+body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
 }
