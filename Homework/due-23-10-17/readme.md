@@ -8,6 +8,8 @@
 Про `flex` и всё, связанное с ним, можете прочитать по ссылкам,
 которые лежат в Slack.
 
+#### Кроме того, с флексбоксами можно поиграться [тут][flexboxfroggy], что мы _очень рекомендуем_.
+
 ![то, что должно получиться][result-img]
 
 ### Текст
@@ -91,3 +93,4 @@ body {
 - Отступ слева заголовка и текста от даты `.7rem`
 
 [result-img]: https://github.com/am-cp-frontend/course/raw/master/Homework/due-23-10-17/task.png
+[flexboxfroggy]: http://flexboxfroggy.com
