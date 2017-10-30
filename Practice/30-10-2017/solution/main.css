@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(232, 232, 232);	
+  }
+  
+  .notes-container {
+    padding: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: auto;
+    justify-content: center;
+  }
+  
+  .note {
+    padding: 1.5rem;
+    border-radius: 1px;
+    width: 13rem;
+    min-height: 13rem;
+    box-shadow: 1px 1px 2px #aaa;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .yellow {
+    background-color: rgb(253, 255,	141);	
+  }
+  
+  .orange {
+    background-color: rgb(251, 208, 125);	
+  }
+  
+  .red {
+    background-color: rgb(255, 137, 128);
+  }
+  
+  .blue {
+    background-color: rgb(128, 216, 255);
+  }
+  
+  .header {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .content {
+    margin-top: .4rem;
+  }
+  
+  @media (max-width: 48em) {
+    .notes-container {
+      width: 100%;
+    }
+  }
