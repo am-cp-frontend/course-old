@@ -1,6 +1,6 @@
 # Домашнее задание на 29 октября 2017 года
 
-### Новая версия сервера и тестовых данных лежит [тут][toolkit-link].
+### Новая версия сервера и тестовых данных лежит в папке Toolkit.
 ### В папке Assets лежат картинки, которые понадобятся вам, чтобы соответсвовать тестовым данным.
 
 Помните заметки? Шучу. Конечно же, вы их помните.
@@ -88,6 +88,5 @@ var data = [
 [image-groups]: https://github.com/am-cp-frontend/course/raw/master/Homework/due-06-11-17/groups.png
 [image-groups-mobile]: https://github.com/am-cp-frontend/course/raw/master/Homework/due-06-11-17/groups-mobile.png
 
-[toolkit-link]: ttps://github.com/am-cp-frontend/course/blob/master/Homework/due-06-11-17/toolkit
 [practice-solution]: https://github.com/am-cp-frontend/course/tree/master/Practice/30-10-2017/solution
 [practice-readme]: https://github.com/am-cp-frontend/course/blob/master/Practice/30-10-2017/readme.md
