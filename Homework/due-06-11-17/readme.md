@@ -58,7 +58,7 @@ var data = [
 
 ![вооооот так][image-images]
 
-- Максимальная высота картинки `9rem`, весь остальной контент *обрезается* по высоте
+- Задайте максимальную высоту для блока картинки, весь остальной контент *обрезается* по высоте
   (почитайте про свойство `overflow`!)
 - Ширина на весь блок заметки, очевидно
 
@@ -78,7 +78,6 @@ var data = [
 
 ![на мобилках][image-groups-mobile]
 
-Отступы между группами по `1.3rem`, кстати.
 
 [image-actions]: https://github.com/am-cp-frontend/course/raw/master/Homework/due-06-11-17/actions.png
 [image-images]: https://github.com/am-cp-frontend/course/raw/master/Homework/due-06-11-17/image.png
