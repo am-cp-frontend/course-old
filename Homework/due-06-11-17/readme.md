@@ -7,17 +7,14 @@
 
 Так вот, они никуда не делись.
 
-Кроме того, мы заметочки немного заредизайнили, и дабы избавить
-вас от надобности вносить изменения в вашу вёрстку, мы залили решение
-(оно же решение практики, которая была в понедельник) [сюда][practice-solution].
-
-У нас там немного другие цифры теперь, так что если хотите, чтобы ваша вёрстка была
-максимально похожа на решение, *загляните туда*.
-
 Помните, что вы должны не просто сверстать задание, а ещё и динамически отрисовать
 заметки из переменной `data`, которую мы вам экспоузим в ваш HTML на сервере.
 Подробнее об этом можно прочитать [здесь][practice-readme]. Кроме того, хорошей
-идеей будет прочитать код решения, ссылка на которое лежит выше.
+идеей будет прочитать JS-код решения практики ([вот он][practice-solution]).
+
+Хочется отметить, что это ваш первый индивидуальный проект. Вёрстка лежит полностью
+на вас, не смотрите во всевозможные коудпены с вёрсткой заметок, которые мы вам кидали
+на практиках.
 
 ### Изменения в объекте `data`
 
@@ -88,5 +85,5 @@ var data = [
 [image-groups]: https://github.com/am-cp-frontend/course/raw/master/Homework/due-06-11-17/groups.png
 [image-groups-mobile]: https://github.com/am-cp-frontend/course/raw/master/Homework/due-06-11-17/groups-mobile.png
 
-[practice-solution]: https://github.com/am-cp-frontend/course/tree/master/Practice/30-10-2017/solution
+[practice-solution]: https://github.com/am-cp-frontend/course/tree/master/Practice/30-10-2017/solution/script.js
 [practice-readme]: https://github.com/am-cp-frontend/course/blob/master/Practice/30-10-2017/readme.md
