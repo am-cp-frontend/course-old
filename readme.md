@@ -23,7 +23,7 @@
 
 [a-slides]: ./Slides
 [a-assets]: ./Assets
-[a-slack-our]: https://join.slack.com/t/am-cp-frontend/shared_invite/enQtMjUyMDgwMzgyODgwLTdlZTNjNGViYmQ0OTFkZDZhOTg0NTU2NTQxNjgyNmU1NTg2OGY3ZGU5OTY5NGFjNzIzMGU0YWRjZjI1YTAxMDI
+[a-slack-our]: https://join.slack.com/t/am-cp-frontend/shared_invite/enQtMjkwMzY3NTExNjQ4LTFjNDNlNWRkODgxNjNjNmQzMjNmZDE5MGZmOGMwYzdkOWM1NGM0ZjkwMmFlMDQ3MzFkM2E2MWJmNzllZDliOTY
 
 [a-atom]: https://atom.io/
 [a-vscode]: https://code.visualstudio.com/
